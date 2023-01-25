@@ -1,0 +1,40 @@
+/*css reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.logo-brand{
+	font-family: 'Jost', sans serif; 
+	font-weight:bold;
+}
+
+#pre-footer{
+	padding-left: 2%;
+	padding-right: 10%;
+	padding-top: 2rem;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	background-color: #002540;
+	color: white;
+}
+
+#pre-footer .card{
+	display: inline-block;
+	vertical-align: top;
+	min-height: 175px;
+	width:20%;
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
+
+footer {
+	padding: 0.7rem;
+}
+
+footer span {
+	margin-left: 0.5rem;
+	margin-right: 0.5rem;
+}
